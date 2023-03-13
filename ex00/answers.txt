@@ -1,0 +1,5 @@
+Lista paquetes instalados: pip list
+Metadatos numpy: pip show numpy
+Eliminar: pip uninstall numpy
+Instalar: pip install numpy
+Congelar: pip freeze > requirements.txt
